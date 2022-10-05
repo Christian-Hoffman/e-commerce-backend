@@ -10,7 +10,7 @@ The e-commerce backend project was built as a demonstration of a backend system.
 Using insomnia you can get, post, update, and delete data.
 
 ## Usage
-[Link to video walkthrough](https://drive.google.com/file/d/1bAfU5DVV-USHabKlclz3S2M066DsTRSi/view?usp=sharing) \
+[Link to video walkthrough](https://drive.google.com/file/d/1bAfU5DVV-USHabKlclz3S2M066DsTRSi/view?usp=sharing) 
 
 Clone the repo \
 In your terminal run 'npm i' \
